@@ -33,6 +33,13 @@ ul {
     color: teal
 }
 
+section {
+    border:2px solid black;
+    padding:5px;
+    margin-bottom:5px;
+    color:black;
+}
+
 #wrapper {
     width:600px;
     margin:auto; /* Centers the div on the page */
