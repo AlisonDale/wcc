@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://practice-pixels.s3.amazonaws.com/texture-paper.jpg');
+}
+
+h1 {
+    color:#2f279b;
+    font-family: helvetica
+    }
+
+h2 {
+    color:#5149c4;
+    font-family: helvetica
+}
+
+p {
+    line-height: 1.5;
+    font-family: helvetica
+}
+
+ul {
+    font-family: helvetica
+}
+
+.primary {
+    font-weight: bold;
+}
+
+.author {
+    font-style: italic;
+}
+
+.characters {
+    color: teal
+}
+
+#wrapper {
+    width:600px;
+    margin:auto; /* Centers the div on the page */
+    border:1px solid tan;
+    padding:25px;
